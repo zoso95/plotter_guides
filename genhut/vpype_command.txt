@@ -1,0 +1,4 @@
+vpype \
+read my_super_cool_art.svg \
+scale --to 9.9in 12.6in \
+write --page-format 11x14 --center my_super_cool_art_rescaled.svg
